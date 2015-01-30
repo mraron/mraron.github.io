@@ -3,7 +3,7 @@
   <channel>
       <title>Go on Troll </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://mraron.github.io/tags/go/index.xml/</link>
+    <link>http://localhost:1313/tags/go/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,56 +11,11 @@
     
     <item>
       <title>about</title>
-      <link>http://mraron.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 29 Jan 2015 21:07:42 CET</pubDate>
       
-      <guid>http://mraron.github.io/about/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JhY9GOhFwN4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis sodales nulla. Maecenas cursus, libero scelerisque consequat imperdiet, ante ligula pharetra dui, nec dapibus tellus ipsum nec mi. Morbi fermentum diam libero, ac tempor lectus molestie sed. In in iaculis augue. Nam porta tristique posuere. Aenean porta feugiat ex, in varius nibh gravida sit amet. Vestibulum pulvinar purus ex, at semper arcu laoreet at. Etiam fringilla turpis vel velit malesuada tincidunt. Donec egestas nisl quis luctus finibus. Integer porttitor laoreet imperdiet.&lt;/p&gt;
-
-&lt;p&gt;Vivamus iaculis at mi sed pharetra. Aenean at ultrices velit. Proin elementum lectus nisi, euismod interdum augue vestibulum et. Proin eget velit aliquam, fermentum velit et, dignissim tortor. Phasellus ac eleifend urna. Proin vehicula ligula eget risus feugiat, quis porta elit congue. Etiam vitae velit viverra, hendrerit diam vitae, lobortis ex. Sed sodales nisi ipsum, feugiat luctus libero bibendum sodales. Mauris molestie non mauris vitae luctus. Nam sollicitudin pulvinar velit vitae consequat. Nam ut lobortis magna, id luctus ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean condimentum quam vehicula, elementum nisl vel, aliquam lectus. Pellentesque id ligula nec nisi volutpat dapibus id non dolor. Fusce nibh felis, tempus in mauris vitae, volutpat dignissim leo. Etiam semper orci ac lorem tempor, eget ornare felis interdum.&lt;/p&gt;
-
-&lt;p&gt;Curabitur a pulvinar augue. Donec eu ante lacinia, tristique orci id, tincidunt sapien. Ut facilisis tellus ut urna suscipit, a lobortis massa pharetra. Ut ex lectus, finibus sed felis vel, egestas luctus ligula. Duis ac enim sed purus lacinia vehicula. Aenean eu enim sem. Nam id sodales enim. Duis lectus eros, euismod sed vulputate in, consequat ac odio. Praesent ultrices tellus a maximus sollicitudin.&lt;/p&gt;
-
-&lt;p&gt;Quisque congue lorem id libero viverra, eu dignissim velit facilisis. Cras id mollis est, a scelerisque sem. Fusce tempor tortor quis mattis finibus. Donec convallis tempus gravida. Aenean tempor varius commodo. Curabitur tincidunt risus vel consectetur gravida. Sed sed est dapibus, hendrerit orci lacinia, bibendum felis. Morbi facilisis odio at feugiat eleifend. Nulla feugiat cursus tortor. Curabitur ultricies, orci at convallis tempus, massa lectus malesuada orci, id fermentum ex nulla a sapien. Praesent dignissim sed ligula sed lobortis. Nullam vel libero magna.&lt;/p&gt;
-
-&lt;p&gt;Donec ullamcorper vestibulum felis, sed convallis est gravida vitae. Nulla commodo tincidunt facilisis. Suspendisse aliquet turpis a risus vehicula lacinia. Suspendisse auctor enim sed sapien tempor blandit. Nunc ut commodo augue, sed malesuada magna. Sed nec efficitur felis. Pellentesque ac risus sed purus commodo efficitur at a elit. Fusce eleifend nunc vestibulum feugiat maximus. Morbi a fringilla ipsum. In in vulputate risus. Nam consectetur, purus sed lobortis malesuada, turpis lectus ultricies nunc, a pretium odio sem quis nibh. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam pellentesque urna in lectus dignissim fermentum.&lt;/p&gt;
-
-&lt;p&gt;Nam efficitur nulla mauris, at vulputate odio scelerisque nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis nec tincidunt nulla. Nullam venenatis urna orci, ac posuere orci condimentum a. Ut eleifend volutpat ligula, ac gravida urna sodales ac. Phasellus vitae mauris quis purus gravida convallis. Etiam vitae dui vel velit faucibus aliquet elementum volutpat lectus. Nullam a augue pulvinar, cursus purus eu, suscipit metus. Vestibulum lorem purus, hendrerit in pulvinar vel, pellentesque sit amet dolor.&lt;/p&gt;
-
-&lt;p&gt;Sed eu nibh ut neque lacinia sagittis quis nec arcu. Morbi convallis lectus lacus, id sollicitudin ligula mattis ut. Phasellus suscipit sem quis vehicula tempor. Suspendisse pharetra, urna et suscipit tempor, felis ligula pharetra felis, non scelerisque dui lectus sed ex. Praesent auctor nibh risus, sit amet commodo arcu porttitor vitae. Sed scelerisque, nunc ac elementum tincidunt, elit augue mattis lorem, at pellentesque nibh dui ut velit. Ut condimentum, ante sed ornare posuere, purus erat luctus justo, id pellentesque nulla est vel libero. Proin porta, orci sit amet posuere rutrum, sapien turpis dapibus purus, a finibus lorem tortor at lorem. Aliquam erat volutpat. Fusce accumsan nibh sed laoreet pulvinar. In imperdiet, ligula vel ultricies sollicitudin, elit odio dictum purus, semper auctor tellus metus non sapien. Curabitur porta pharetra felis eu mollis. Suspendisse auctor arcu ut magna tristique, a accumsan nisl ultrices. Vestibulum sagittis nec massa et faucibus. Mauris iaculis aliquet ipsum nec efficitur. Duis facilisis ipsum at est aliquet vehicula.&lt;/p&gt;
-
-&lt;p&gt;Mauris porttitor purus eget egestas tristique. Etiam mollis semper tellus, nec sagittis leo accumsan nec. Nullam hendrerit nisl ac nisl ornare sagittis. Integer eget elit sed diam blandit condimentum id et arcu. Pellentesque id scelerisque odio. Nunc nec lacus nisi. Fusce tempus mauris auctor urna commodo faucibus. Mauris lobortis fringilla risus, vel consectetur purus venenatis sed. Aliquam vulputate nulla nisi, at pretium dui viverra sed.&lt;/p&gt;
-
-&lt;p&gt;Quisque id sem id justo varius convallis sed nec arcu. Vestibulum vitae sem nibh. Proin volutpat lectus vitae massa gravida molestie. In sit amet nulla porta, tincidunt lectus imperdiet, porttitor mauris. Fusce laoreet odio vitae velit sodales, nec tempor augue pretium. Nullam laoreet ut mauris id porta. Nam rutrum semper turpis vel efficitur. Pellentesque eget laoreet turpis. Phasellus vel congue odio. Nunc bibendum nisl vitae est feugiat pretium. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin in eros ullamcorper, imperdiet lectus id, consequat dolor.&lt;/p&gt;
-
-&lt;p&gt;Pellentesque sodales, metus in ultrices ullamcorper, dolor mauris feugiat leo, egestas elementum turpis felis vitae arcu. Curabitur commodo eu justo vel condimentum. Donec sollicitudin non quam sit amet lobortis. Vestibulum viverra venenatis leo id bibendum. Nulla eleifend mollis risus, quis pulvinar mi faucibus nec. Quisque pretium urna nec tortor consectetur mollis. Fusce sit amet efficitur erat, quis faucibus lacus. Pellentesque pharetra fermentum fermentum. Pellentesque iaculis odio est, et molestie eros semper convallis. Suspendisse mauris orci, laoreet eu odio eget, dapibus tincidunt purus.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;
-package main
-
-import (
-	&amp;quot;fmt&amp;quot;
-)
-
-func main() {
-	fmt.Println(&amp;quot;Hello world!&amp;quot;)
-}
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;
-&amp;lt;section id=&amp;quot;main&amp;quot;&amp;gt;
-  &amp;lt;div&amp;gt;
-   &amp;lt;h1 id=&amp;quot;title&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
-    {{ range .Data.Pages }}
-        {{ .Render &amp;quot;summary&amp;quot;}}
-    {{ end }}
-  &amp;lt;/div&amp;gt;
-&amp;lt;/section&amp;gt;
-
-&lt;/code&gt;&lt;/pre&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Coming soon! :)&lt;/p&gt;
 </description>
     </item>
     
