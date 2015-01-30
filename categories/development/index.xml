@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Development on Troll </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/development/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 30 Jan 2015 19:02:32 CET</updated>
+    
+    <item>
+      <title>Just...</title>
+      <link>http://localhost:1313/just/</link>
+      <pubDate>Fri, 30 Jan 2015 19:02:32 CET</pubDate>
+      
+      <guid>http://localhost:1313/just/</guid>
+      <description>&lt;p&gt;a great music!
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oRdxUFDoQe0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
