@@ -15,7 +15,9 @@
       <pubDate>Thu, 29 Jan 2015 21:07:42 CET</pubDate>
       
       <guid>http://mraron.github.io/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis sodales nulla. Maecenas cursus, libero scelerisque consequat imperdiet, ante ligula pharetra dui, nec dapibus tellus ipsum nec mi. Morbi fermentum diam libero, ac tempor lectus molestie sed. In in iaculis augue. Nam porta tristique posuere. Aenean porta feugiat ex, in varius nibh gravida sit amet. Vestibulum pulvinar purus ex, at semper arcu laoreet at. Etiam fringilla turpis vel velit malesuada tincidunt. Donec egestas nisl quis luctus finibus. Integer porttitor laoreet imperdiet.&lt;/p&gt;
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JhY9GOhFwN4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis sodales nulla. Maecenas cursus, libero scelerisque consequat imperdiet, ante ligula pharetra dui, nec dapibus tellus ipsum nec mi. Morbi fermentum diam libero, ac tempor lectus molestie sed. In in iaculis augue. Nam porta tristique posuere. Aenean porta feugiat ex, in varius nibh gravida sit amet. Vestibulum pulvinar purus ex, at semper arcu laoreet at. Etiam fringilla turpis vel velit malesuada tincidunt. Donec egestas nisl quis luctus finibus. Integer porttitor laoreet imperdiet.&lt;/p&gt;
 
 &lt;p&gt;Vivamus iaculis at mi sed pharetra. Aenean at ultrices velit. Proin elementum lectus nisi, euismod interdum augue vestibulum et. Proin eget velit aliquam, fermentum velit et, dignissim tortor. Phasellus ac eleifend urna. Proin vehicula ligula eget risus feugiat, quis porta elit congue. Etiam vitae velit viverra, hendrerit diam vitae, lobortis ex. Sed sodales nisi ipsum, feugiat luctus libero bibendum sodales. Mauris molestie non mauris vitae luctus. Nam sollicitudin pulvinar velit vitae consequat. Nam ut lobortis magna, id luctus ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean condimentum quam vehicula, elementum nisl vel, aliquam lectus. Pellentesque id ligula nec nisi volutpat dapibus id non dolor. Fusce nibh felis, tempus in mauris vitae, volutpat dignissim leo. Etiam semper orci ac lorem tempor, eget ornare felis interdum.&lt;/p&gt;
 
@@ -34,6 +36,31 @@
 &lt;p&gt;Quisque id sem id justo varius convallis sed nec arcu. Vestibulum vitae sem nibh. Proin volutpat lectus vitae massa gravida molestie. In sit amet nulla porta, tincidunt lectus imperdiet, porttitor mauris. Fusce laoreet odio vitae velit sodales, nec tempor augue pretium. Nullam laoreet ut mauris id porta. Nam rutrum semper turpis vel efficitur. Pellentesque eget laoreet turpis. Phasellus vel congue odio. Nunc bibendum nisl vitae est feugiat pretium. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin in eros ullamcorper, imperdiet lectus id, consequat dolor.&lt;/p&gt;
 
 &lt;p&gt;Pellentesque sodales, metus in ultrices ullamcorper, dolor mauris feugiat leo, egestas elementum turpis felis vitae arcu. Curabitur commodo eu justo vel condimentum. Donec sollicitudin non quam sit amet lobortis. Vestibulum viverra venenatis leo id bibendum. Nulla eleifend mollis risus, quis pulvinar mi faucibus nec. Quisque pretium urna nec tortor consectetur mollis. Fusce sit amet efficitur erat, quis faucibus lacus. Pellentesque pharetra fermentum fermentum. Pellentesque iaculis odio est, et molestie eros semper convallis. Suspendisse mauris orci, laoreet eu odio eget, dapibus tincidunt purus.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+package main
+
+import (
+	&amp;quot;fmt&amp;quot;
+)
+
+func main() {
+	fmt.Println(&amp;quot;Hello world!&amp;quot;)
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;
+&amp;lt;section id=&amp;quot;main&amp;quot;&amp;gt;
+  &amp;lt;div&amp;gt;
+   &amp;lt;h1 id=&amp;quot;title&amp;quot;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+    {{ range .Data.Pages }}
+        {{ .Render &amp;quot;summary&amp;quot;}}
+    {{ end }}
+  &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

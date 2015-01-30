@@ -117,7 +117,9 @@
 
 			
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis sodales nulla. Maecenas cursus, libero scelerisque consequat imperdiet, ante ligula pharetra dui, nec dapibus tellus ipsum nec mi. Morbi fermentum diam libero, ac tempor lectus molestie sed. In in iaculis augue. Nam porta tristique posuere. Aenean porta feugiat ex, in varius nibh gravida sit amet. Vestibulum pulvinar purus ex, at semper arcu laoreet at. Etiam fringilla turpis vel velit malesuada tincidunt. Donec egestas nisl quis luctus finibus. Integer porttitor laoreet imperdiet.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/JhY9GOhFwN4" frameborder="0" allowfullscreen></iframe>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mattis sodales nulla. Maecenas cursus, libero scelerisque consequat imperdiet, ante ligula pharetra dui, nec dapibus tellus ipsum nec mi. Morbi fermentum diam libero, ac tempor lectus molestie sed. In in iaculis augue. Nam porta tristique posuere. Aenean porta feugiat ex, in varius nibh gravida sit amet. Vestibulum pulvinar purus ex, at semper arcu laoreet at. Etiam fringilla turpis vel velit malesuada tincidunt. Donec egestas nisl quis luctus finibus. Integer porttitor laoreet imperdiet.</p>
 
 <p>Vivamus iaculis at mi sed pharetra. Aenean at ultrices velit. Proin elementum lectus nisi, euismod interdum augue vestibulum et. Proin eget velit aliquam, fermentum velit et, dignissim tortor. Phasellus ac eleifend urna. Proin vehicula ligula eget risus feugiat, quis porta elit congue. Etiam vitae velit viverra, hendrerit diam vitae, lobortis ex. Sed sodales nisi ipsum, feugiat luctus libero bibendum sodales. Mauris molestie non mauris vitae luctus. Nam sollicitudin pulvinar velit vitae consequat. Nam ut lobortis magna, id luctus ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean condimentum quam vehicula, elementum nisl vel, aliquam lectus. Pellentesque id ligula nec nisi volutpat dapibus id non dolor. Fusce nibh felis, tempus in mauris vitae, volutpat dignissim leo. Etiam semper orci ac lorem tempor, eget ornare felis interdum.</p>
 
@@ -136,6 +138,31 @@
 <p>Quisque id sem id justo varius convallis sed nec arcu. Vestibulum vitae sem nibh. Proin volutpat lectus vitae massa gravida molestie. In sit amet nulla porta, tincidunt lectus imperdiet, porttitor mauris. Fusce laoreet odio vitae velit sodales, nec tempor augue pretium. Nullam laoreet ut mauris id porta. Nam rutrum semper turpis vel efficitur. Pellentesque eget laoreet turpis. Phasellus vel congue odio. Nunc bibendum nisl vitae est feugiat pretium. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin in eros ullamcorper, imperdiet lectus id, consequat dolor.</p>
 
 <p>Pellentesque sodales, metus in ultrices ullamcorper, dolor mauris feugiat leo, egestas elementum turpis felis vitae arcu. Curabitur commodo eu justo vel condimentum. Donec sollicitudin non quam sit amet lobortis. Vestibulum viverra venenatis leo id bibendum. Nulla eleifend mollis risus, quis pulvinar mi faucibus nec. Quisque pretium urna nec tortor consectetur mollis. Fusce sit amet efficitur erat, quis faucibus lacus. Pellentesque pharetra fermentum fermentum. Pellentesque iaculis odio est, et molestie eros semper convallis. Suspendisse mauris orci, laoreet eu odio eget, dapibus tincidunt purus.</p>
+
+<pre><code>
+package main
+
+import (
+	&quot;fmt&quot;
+)
+
+func main() {
+	fmt.Println(&quot;Hello world!&quot;)
+}
+
+</code></pre>
+
+<pre><code>
+&lt;section id=&quot;main&quot;&gt;
+  &lt;div&gt;
+   &lt;h1 id=&quot;title&quot;&gt;{{ .Title }}&lt;/h1&gt;
+    {{ range .Data.Pages }}
+        {{ .Render &quot;summary&quot;}}
+    {{ end }}
+  &lt;/div&gt;
+&lt;/section&gt;
+
+</code></pre>
 
 	
 			
