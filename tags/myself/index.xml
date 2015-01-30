@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Myself on Troll </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/myself/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 29 Jan 2015 21:07:42 CET</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 29 Jan 2015 21:07:42 CET</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Ajaj&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
