@@ -3,7 +3,7 @@
   <channel>
       <title>Music on mraron </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://mraron.github.io/categories/music/index.xml/</link>
+    <link>http://localhost:1313/categories/music/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Just...</title>
-      <link>http://mraron.github.io/just/</link>
+      <link>http://localhost:1313/just/</link>
       <pubDate>Fri, 30 Jan 2015 19:02:32 CET</pubDate>
       
-      <guid>http://mraron.github.io/just/</guid>
+      <guid>http://localhost:1313/just/</guid>
       <description>&lt;p&gt;&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/oRdxUFDoQe0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;
 a great music!&lt;/p&gt;
 </description>

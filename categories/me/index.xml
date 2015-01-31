@@ -3,7 +3,7 @@
   <channel>
       <title>Me on mraron </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://mraron.github.io/categories/me/index.xml/</link>
+    <link>http://localhost:1313/categories/me/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>about</title>
-      <link>http://mraron.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 29 Jan 2015 21:07:42 CET</pubDate>
       
-      <guid>http://mraron.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Coming soon! :)&lt;/p&gt;
 </description>
     </item>

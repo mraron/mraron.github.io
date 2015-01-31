@@ -16,7 +16,7 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:url" content="http://mraron.github.io/categories/music/" />
+<meta property="og:url" content="http://localhost:1313/categories/music/" />
 
 
   
@@ -28,7 +28,7 @@
   
   
 
-  <link rel="stylesheet" href="http://mraron.github.io/css/redlounge.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/redlounge.css">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,100,700,300,500,600,800' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
@@ -38,7 +38,7 @@
   <link rel="shortcut icon" href="/favicon.png">
 
   
-  <link href="http://mraron.github.io/categories/music/index.xml/" rel="alternate" type="application/rss+xml" title="mraron" />
+  <link href="http://localhost:1313/categories/music/index.xml/" rel="alternate" type="application/rss+xml" title="mraron" />
 
   
   <link rel="stylesheet" href="https://yandex.st/highlightjs/8.0/styles/tomorrow-night-bright.min.css">
@@ -48,6 +48,18 @@
   
 
   
+	<style type="text/css">
+	.profile{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	width:50px;
+	height:50px;
+
+	}
+	</style>
 
   
 </head>
@@ -58,15 +70,20 @@
   <div class="header">
     
 
-    <h1 class="brand-title">mraron</h1>
+    
+<h1 class="brand-title"><img class="profile" alt="" src="http://localhost:1313/img/hobbes104.png"> mraron</h1>
     <h2 class="brand-tagline">lot of stuff...</h2>
 
     <nav class="nav">
       <ul class="nav-list">
-        <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://mraron.github.io">Home</a></li>
+        <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313">Home</a></li>
         
-          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://mraron.github.io/about/">about</a></li>
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313/about/">about</a></li>
         
+<br><br>
+	          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://codeforces.com/profile/mraron">Codeforces</a></li>
+	          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://github.com/mraron">Github</a></li>
+	          <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://stackoverflow.com/users/3186886/mraron">StackOverflow</a></li>
       </ul>
     </nav>
 
@@ -134,5 +151,8 @@ a great music!</p>
     </div>
   </div>
   
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
