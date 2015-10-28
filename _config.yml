@@ -1,0 +1,11 @@
+name: "mraron"
+description: "Sok dolog..."
+
+url: "http://localhost:4000/"
+
+paginate: 10
+gems: [jekyll-paginate]
+
+markdown: rdiscount
+permalink: pretty
+

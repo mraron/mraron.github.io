@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+    <title>{{site.name}}</title>
+    <link rel="icon" href="/newlogo.png">
+	<meta charset="utf-8">
+    <meta name="description" content="{{site.description}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+</head>
+<body>
+    <div class="container">
+		<br>
+		<div class="center-block">
+			<img src="/newlogo.png" alt="The logo of MatekMaffia" class="img-thumbnail center-block" width="125" height="125">
+			<br>
+			<p  class="text-center"><a href="/"><span class="glyphicon glyphicon-home"></span> Főoldal</a></p>
+		</div>
+		
+<h1>{{page.title}}</h1>
+<i class="glyphicon glyphicon-pencil"> {{ page.date | date_to_long_string }}</i> <br>
+<i class="glyphicon glyphicon-tags">{% include tagsforpost.html tags=page.tags %}</i>
+<br><br><br>
+{{content}}
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'mraronssite';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+{%include footer.html%}
+
